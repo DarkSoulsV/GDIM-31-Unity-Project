@@ -2,3 +2,5 @@
 General Home Work
 Commit changes
 New Branch Commit changes 
+merge completed
+Alexander Voit.
